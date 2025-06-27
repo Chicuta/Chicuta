@@ -1,5 +1,11 @@
 Hello there! Eu sou **Ricardo Chicuta**, ou simplesmente **Chicuta**, um desenvolvedor apaixonado por criar e inovar! 🚀
 
+<p align="center">
+  <a href="README_en.md">
+    <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
+  </a>
+</p>
+
 Moro no Brasil e estou sempre em busca de novos desafios e conhecimentos na área de tecnologia. Meu foco é desenvolver soluções que resolvam problemas reais e melhorem a vida das pessoas. Além dos meus projetos públicos, também possuo diversos **projetos privados** em desenvolvimento.
 
 ---
