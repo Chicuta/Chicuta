@@ -1,13 +1,7 @@
-# Hello, Hello there! 👋
-
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/Vers%C3%A3o%20em%20Portugu%C3%AAs-Clique%20aqui-green?style=for-the-badge&logo=appveyor" alt="Portuguese Version">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFz9vDqw/giphy.gif" alt="Hello There Obi-Wan" width="200"/>
 </p>
 
 Hello there! I'm **Ricardo Chicuta**, also known as **Chicuta**, a developer passionate about creating and innovating! 🚀
@@ -24,8 +18,6 @@ I'm passionate about building web and mobile applications, and I have experience
 * **Web Development:**
     * **Frontend:** HTML, CSS (e.g., `ProjetoDiscover`, `Form`)
     * **Backend:** **PHP** (Experience in backend development with PHP)
-* **Mobile Development:** Java (e.g., `HamburgueriaZ`)
-
 ---
 
 ## My Featured Projects 🌟
@@ -44,7 +36,7 @@ Here are some of the projects I've worked on that showcase my skills:
     * **[![Link to ProjetoDiscover Repository](https://img.shields.io/badge/ProjetoDiscover-CSS-green)](https://github.com/Chicuta/ProjetoDiscover)**
         * A project exploring the use of CSS.
 * **<ins>Private Projects</ins>**:
-    * I am dedicated to several other projects that are not publicly available, where I also apply my skills in Java, JavaScript, and **PHP**.
+    * I am dedicated to several other projects that are not publicly available, where I also apply my skills in JavaScript, and **PHP**.
 
 ---
 
