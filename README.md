@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado e que demonstram minh
     * **[![Link para o Repositório ProjetoDiscover](https://img.shields.io/badge/ProjetoDiscover-CSS-green)](https://github.com/Chicuta/ProjetoDiscover)**
         * Um projeto que explora o uso de CSS.
 * **<ins>Projetos Privados</ins>**:
-    * Dedico-me a diversos outros projetos que não estão publicamente disponíveis, onde também aplico minhas habilidades em Java, JavaScript e **PHP**.
+    * Dedico-me a diversos outros projetos que não estão publicamente disponíveis, onde também aplico minhas habilidades em JavaScript e **PHP**.
 
 ---
 
