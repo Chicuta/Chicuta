@@ -1,9 +1,3 @@
-# Olá, olá! 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFz9vDqw/giphy.gif" alt="Hello There Obi-Wan" width="200"/>
-</p>
-
 Hello there! Eu sou **Ricardo Chicuta**, ou simplesmente **Chicuta**, um desenvolvedor apaixonado por criar e inovar! 🚀
 
 Moro no Brasil e estou sempre em busca de novos desafios e conhecimentos na área de tecnologia. Meu foco é desenvolver soluções que resolvam problemas reais e melhorem a vida das pessoas. Além dos meus projetos públicos, também possuo diversos **projetos privados** em desenvolvimento.
