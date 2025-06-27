@@ -12,8 +12,6 @@ Sou apaixonado por construir aplicações web e mobile, e tenho experiência com
 * **Desenvolvimento Web:**
     * **Frontend:** HTML, CSS (ex: `ProjetoDiscover`, `Form`)
     * **Backend:** **PHP** (Experiência em desenvolvimento backend com PHP)
-* **Desenvolvimento Mobile:** Java (ex: `HamburgueriaZ`)
-
 ---
 
 ## Meus Projetos em Destaque 🌟
