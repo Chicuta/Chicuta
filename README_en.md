@@ -14,7 +14,7 @@ Based in Brazil, I'm always seeking new challenges and knowledge in the technolo
 
 I'm passionate about building web and mobile applications, and I have experience with the following technologies:
 
-* **Languages:** Java, JavaScript, HTML, CSS, **PHP**
+* **Languages:**JavaScript, HTML, CSS, **PHP**
 * **Web Development:**
     * **Frontend:** HTML, CSS (e.g., `ProjetoDiscover`, `Form`)
     * **Backend:** **PHP** (Experience in backend development with PHP)
