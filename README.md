@@ -14,7 +14,7 @@ Moro no Brasil e estou sempre em busca de novos desafios e conhecimentos na áre
 
 Sou apaixonado por construir aplicações web e mobile, e tenho experiência com as seguintes tecnologias:
 
-* **Linguagens:** Java, JavaScript, HTML, CSS, **PHP**
+* **Linguagens:**JavaScript, HTML, CSS, **PHP**
 * **Desenvolvimento Web:**
     * **Frontend:** HTML, CSS (ex: `ProjetoDiscover`, `Form`)
     * **Backend:** **PHP** (Experiência em desenvolvimento backend com PHP)
