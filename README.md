@@ -3,10 +3,7 @@ Hello there! Eu sou Ricardo Chicuta 🚀
 <a href="README_en.md">
 <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
 </a>
-<a href="README.md">
-<img src="https://img.shields.io/badge/Versão%20Português-Clique%20aqui-green?style=for-the-badge&logo=github" alt="Versão Português">
-</a>
-</p>
+
 
 Moro em Criciúma, Santa Catarina, e sou um desenvolvedor apaixonado por transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com o desenvolvimento Full-stack, com foco especial no ecossistema Duovix.
 
