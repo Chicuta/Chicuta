@@ -1,50 +1,44 @@
 Hello there! Eu sou Ricardo Chicuta 🚀
-Moro em Criciúma, Santa Catarina, e sou um desenvolvedor focado em transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com a paixão pelo desenvolvimento Full-stack. Atualmente, dedico grande parte da minha energia ao ecossistema Duovix, criando ferramentas que otimizam a gestão e a produtividade.
-
 <p align="center">
-
-  <a href="README_en.md">
-
-    <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
-
-  </a>
-
-</p>
-
-<p align="center">
-<a href="https://duovix.com" target="_blank">
-<img src="https://img.shields.io/badge/Visite%20meu%20Site-Duovix.com-6e5494?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Duovix Site">
+<a href="README_en.md">
+<img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
+</a>
+<a href="README.md">
+<img src="https://img.shields.io/badge/Versão%20Português-Clique%20aqui-green?style=for-the-badge&logo=github" alt="Versão Português">
 </a>
 </p>
 
+Moro em Criciúma, Santa Catarina, e sou um desenvolvedor apaixonado por transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com o desenvolvimento Full-stack, com foco especial no ecossistema Duovix.
+
 O que eu faço e sei fazer ✨
-Sou apaixonado por construir aplicações robustas, unindo performance no backend com interfaces intuitivas.
+Sou especializado em construir aplicações robustas que resolvem problemas de gestão e produtividade.
 
-Linguagens: JavaScript, PHP, HTML5, CSS3
+Linguagens: JavaScript (ES6+), PHP, HTML5, CSS3
 
-Frontend: React, CSS Moderno
+Frontend: React, Mobile (Java/Android), CSS Moderno
 
-Backend: PHP para sistemas de gestão e APIs, Node.js
+Backend: PHP para sistemas de gestão e APIs
 
-Especialidades: Sistemas de Help Desk e Incidentes, Gestão de Negócios.
+Foco Atual: Transformação de sistemas legados em PWA (Progressive Web Apps).
 
 Projetos em Destaque 🌟
-🛠️ Ecossistema Duovix (Principal)
-Duovix.com: Minha plataforma central de gestão. Permitindo que empresas e gestores tenham o controle do negócio, com alta performance e usabilidade.
+🛠️ Duovix.com
+Minha plataforma central de gestão. Estou evoluindo o sistema para ser um PWA completo, garantindo que a gestão do negócio seja acessível em qualquer dispositivo, com alta performance e suporte a uso offline.
 
-Sistema de Chamados & Incidentes: Um projeto robusto inspirado no GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a gestão de demandas de TI e infraestrutura.
+🛡️ Sistema de Gestão de Chamados
+Um projeto robusto de incidentes inspirado no sistema GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a organização de demandas técnicas.
 
 📚 Portfólio Público
- - App mobile para gestão de pedidos em hamburguerias.
+ - App mobile para gestão de pedidos.
 
- - Feed social interativo focado em boas práticas de JS.
+ - Feed social focado em boas práticas de JS.
 
- - Formulário especializado para a área de psicologia.
+ - Formulário especializado para a área de saúde.
 
- - Exploração avançada de estilização e layout.
+ - Exploração avançada de layouts.
 
 Vamos nos Conectar! 🤝
-Além de programar, também me envolvo com a gestão de negócios (ajudando no salão da minha esposa!) e estou sempre testando novas tecnologias.
+Além de desenvolver o Duovix, também aplico meus conhecimentos de gestão auxiliando no salão de beleza da minha esposa.
 
 LinkedIn: Ricardo Chicuta
 
