@@ -1,51 +1,43 @@
-Hello there! Eu sou **Ricardo Chicuta**, ou simplesmente **Chicuta**, um desenvolvedor apaixonado por criar e inovar! 🚀
+Hello there! Eu sou Ricardo Chicuta 🚀
+Moro em Criciúma, Santa Catarina, e sou um desenvolvedor focado em transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com a paixão pelo desenvolvimento Full-stack. Atualmente, dedico grande parte da minha energia ao ecossistema Duovix, criando ferramentas que otimizam a gestão e a produtividade.
 
 <p align="center">
-  <a href="README_en.md">
-    <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
-  </a>
+<a href="https://duovix.com" target="_blank">
+<img src="https://img.shields.io/badge/Visite%20meu%20Site-Duovix.com-6e5494?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Duovix Site">
+</a>
 </p>
 
-Moro no Brasil e estou sempre em busca de novos desafios e conhecimentos na área de tecnologia. Meu foco é desenvolver soluções que resolvam problemas reais e melhorem a vida das pessoas. Além dos meus projetos públicos, também possuo diversos **projetos privados** em desenvolvimento.
+O que eu faço e sei fazer ✨
+Sou apaixonado por construir aplicações robustas, unindo performance no backend com interfaces intuitivas.
 
----
+Linguagens: JavaScript (ES6+), PHP, HTML5, CSS3
 
-## O que eu faço e sei fazer ✨
+Frontend: React, Mobile (Java/Android), CSS Moderno
 
-Sou apaixonado por construir aplicações web e mobile, e tenho experiência com as seguintes tecnologias:
+Backend: PHP para sistemas de gestão e APIs
 
-* **Linguagens:**JavaScript, HTML, CSS, **PHP**
-* **Desenvolvimento Web:**
-    * **Frontend:** HTML, CSS (ex: `ProjetoDiscover`, `Form`)
-    * **Backend:** **PHP** (Experiência em desenvolvimento backend com PHP)
----
+Especialidades: PWA (Progressive Web Apps), Sistemas de Help Desk e Incidentes, Gestão de Negócios.
 
-## Meus Projetos em Destaque 🌟
+Projetos em Destaque 🌟
+🛠️ Ecossistema Duovix (Principal)
+Duovix.com: Minha plataforma central de gestão. O foco aqui é transformar o sistema em um PWA completo, permitindo que empresas e gestores tenham o controle do negócio na palma da mão, com alta performance e usabilidade offline.
 
-Aqui estão alguns dos projetos nos quais tenho trabalhado e que demonstram minhas habilidades:
+Sistema de Chamados & Incidentes: Um projeto robusto inspirado no GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a gestão de demandas de TI e infraestrutura.
 
-* **<ins>Projetos Públicos</ins>**:
-    * **[![Link para o Repositório HamburgueriaZ](https://img.shields.io/badge/HamburgueriaZ-Java-orange)](https://github.com/Chicuta/HamburgueriaZ)**
-        * Um projeto de desenvolvimento mobile em Java, focado na criação de uma aplicação para uma hamburgueria.
-    * **[![Link para o Repositório Ignitefeed](https://img.shields.io/badge/Ignitefeed-JavaScript-yellow)](https://github.com/Chicuta/Ignitefeed)**
-        * Um projeto desenvolvido com JavaScript.
-    * **[![Link para o Repositório Maratonaexplorer3](https://img.shields.io/badge/Maratonaexplorer3-HTML-blue)](https://github.com/Chicuta/Maratonaexplorer3)**
-        * Um projeto público que utiliza HTML.
-    * **[![Link para o Repositório Form](https://img.shields.io/badge/Form-HTML-red)](https://github.com/Chicuta/Form)**
-        * Um formulário de psicologia desenvolvido com HTML.
-    * **[![Link para o Repositório ProjetoDiscover](https://img.shields.io/badge/ProjetoDiscover-CSS-green)](https://github.com/Chicuta/ProjetoDiscover)**
-        * Um projeto que explora o uso de CSS.
-* **<ins>Projetos Privados</ins>**:
-    * Dedico-me a diversos outros projetos que não estão publicamente disponíveis, onde também aplico minhas habilidades em JavaScript e **PHP**.
+📚 Portfólio Público
+ - App mobile para gestão de pedidos em hamburguerias.
 
----
+ - Feed social interativo focado em boas práticas de JS.
 
-## Vamos nos Conectar! 🤝
+ - Formulário especializado para a área de psicologia.
 
-Fique à vontade para me contatar ou se conectar:
+ - Exploração avançada de estilização e layout.
 
-* **LinkedIn:** [Ricardo Chicuta](https://www.linkedin.com/in/ricardo-chicuta/)
+Vamos nos Conectar! 🤝
+Além de programar, também me envolvo com a gestão de negócios (ajudando no salão da minha esposa!) e estou sempre testando novas tecnologias.
 
-Sinta-se livre para explorar meus repositórios públicos, dar um `star` nos projetos que gostar e abrir `issues` se tiver alguma sugestão ou encontrar algum bug!
+LinkedIn: Ricardo Chicuta
 
-Obrigado pela visita! Que o código esteja com você. 😉
+Web: duovix.com
+
+Que o código esteja com você! 😉
