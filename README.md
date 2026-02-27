@@ -2,6 +2,16 @@ Hello there! Eu sou Ricardo Chicuta 🚀
 Moro em Criciúma, Santa Catarina, e sou um desenvolvedor focado em transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com a paixão pelo desenvolvimento Full-stack. Atualmente, dedico grande parte da minha energia ao ecossistema Duovix, criando ferramentas que otimizam a gestão e a produtividade.
 
 <p align="center">
+
+  <a href="README_en.md">
+
+    <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
+
+  </a>
+
+</p>
+
+<p align="center">
 <a href="https://duovix.com" target="_blank">
 <img src="https://img.shields.io/badge/Visite%20meu%20Site-Duovix.com-6e5494?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Duovix Site">
 </a>
