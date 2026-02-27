@@ -14,7 +14,7 @@ Linguagens: JavaScript, PHP, HTML5, CSS3
 
 Frontend: React, CSS Moderno
 
-Backend: PHP para sistemas de gestão e APIs
+Backend: PHP para sistemas de gestão e APIs, Node.js
 
 Especialidades: Sistemas de Help Desk e Incidentes, Gestão de Negócios.
 
