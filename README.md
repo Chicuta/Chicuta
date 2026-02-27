@@ -1,41 +1,37 @@
-Hello there! Eu sou Ricardo Chicuta 🚀
+Hello there! Eu sou Ricardo Chicuta 🚀 Moro em Criciúma, Santa Catarina, e sou um desenvolvedor focado em transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com a paixão pelo desenvolvimento Full-stack. Atualmente, dedico grande parte da minha energia ao ecossistema Duovix, criando ferramentas que otimizam a gestão e a produtividade.
+
 <p align="center">
 <a href="README_en.md">
 <img src="https://img.shields.io/badge/English%20Version-Click%20here-blue?style=for-the-badge&logo=appveyor" alt="English Version">
 </a>
 
+O que eu faço e sei fazer ✨ Sou apaixonado por construir aplicações robustas, unindo performance no backend com interfaces intuitivas.
 
-Moro em Criciúma, Santa Catarina, e sou um desenvolvedor apaixonado por transformar ideias em soluções reais. Minha trajetória une a experiência em infraestrutura de TI com o desenvolvimento Full-stack, com foco especial no ecossistema Duovix.
+Linguagens: JavaScript, PHP, HTML5, CSS3
 
-O que eu faço e sei fazer ✨
-Sou especializado em construir aplicações robustas que resolvem problemas de gestão e produtividade.
+Frontend: React, CSS Moderno
 
-Linguagens: JavaScript (ES6+), PHP, HTML5, CSS3
+Backend: PHP para sistemas de gestão e APIs, Node.js
 
-Frontend: React, Mobile (Java/Android), CSS Moderno
+Especialidades: Sistemas de Help Desk e Incidentes, Gestão de Negócios.
 
-Backend: PHP para sistemas de gestão e APIs
+Projetos em Destaque 🌟 🛠️ Ecossistema Duovix (Principal) Duovix.com: Minha plataforma central de gestão. Permitindo que empresas e gestores tenham o controle do negócio, com alta performance e usabilidade.
 
-Foco Atual: Transformação de sistemas legados em PWA (Progressive Web Apps).
-
-Projetos em Destaque 🌟
-🛠️ Duovix.com
-Minha plataforma central de gestão. Estou evoluindo o sistema para ser um PWA completo, garantindo que a gestão do negócio seja acessível em qualquer dispositivo, com alta performance e suporte a uso offline.
-
-🛡️ Sistema de Gestão de Chamados
-Um projeto robusto de incidentes inspirado no sistema GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a organização de demandas técnicas.
+Sistema de Chamados & Incidentes: Um projeto robusto inspirado no GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a gestão de demandas de TI e infraestrutura.
 
 📚 Portfólio Público
- - App mobile para gestão de pedidos.
 
- - Feed social focado em boas práticas de JS.
+App mobile para gestão de pedidos em hamburguerias.
 
- - Formulário especializado para a área de saúde.
 
- - Exploração avançada de layouts.
 
-Vamos nos Conectar! 🤝
-Além de desenvolver o Duovix, também aplico meus conhecimentos de gestão auxiliando no salão de beleza da minha esposa.
+Feed social interativo focado em boas práticas de JS.
+
+Formulário especializado para a área de psicologia.
+
+Exploração avançada de estilização e layout.
+
+Vamos nos Conectar! 🤝 Além de programar, também me envolvo com a gestão de negócios (ajudando no salão da minha esposa!) e estou sempre testando novas tecnologias.
 
 LinkedIn: Ricardo Chicuta
 
