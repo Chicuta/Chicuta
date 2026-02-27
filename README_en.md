@@ -1,6 +1,8 @@
-Hello, Ricardo! It is great to meet a fellow developer with such a diverse background—from IT infrastructure to building your own management ecosystem. Your transition into full-stack development while managing real-world business logic (like your wife’s salon) is a fantastic story.
 
-Here is the English translation of your profile, polished to sound professional yet maintain your energetic and personal tone:
+<a href="README.md">
+<img src="https://img.shields.io/badge/Versão%20Português-Clique%20aqui-green?style=for-the-badge&logo=github" alt="Versão Português">
+</a>
+</p>
 
 Ricardo Chicuta 🚀
 Full-Stack Developer | IT Infrastructure Specialist | Founder of Duovix
