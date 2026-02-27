@@ -10,17 +10,17 @@ Moro em Criciúma, Santa Catarina, e sou um desenvolvedor focado em transformar 
 O que eu faço e sei fazer ✨
 Sou apaixonado por construir aplicações robustas, unindo performance no backend com interfaces intuitivas.
 
-Linguagens: JavaScript (ES6+), PHP, HTML5, CSS3
+Linguagens: JavaScript, PHP, HTML5, CSS3
 
-Frontend: React, Mobile (Java/Android), CSS Moderno
+Frontend: React, CSS Moderno
 
 Backend: PHP para sistemas de gestão e APIs
 
-Especialidades: PWA (Progressive Web Apps), Sistemas de Help Desk e Incidentes, Gestão de Negócios.
+Especialidades: Sistemas de Help Desk e Incidentes, Gestão de Negócios.
 
 Projetos em Destaque 🌟
 🛠️ Ecossistema Duovix (Principal)
-Duovix.com: Minha plataforma central de gestão. O foco aqui é transformar o sistema em um PWA completo, permitindo que empresas e gestores tenham o controle do negócio na palma da mão, com alta performance e usabilidade offline.
+Duovix.com: Minha plataforma central de gestão. Permitindo que empresas e gestores tenham o controle do negócio, com alta performance e usabilidade.
 
 Sistema de Chamados & Incidentes: Um projeto robusto inspirado no GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a gestão de demandas de TI e infraestrutura.
 
