@@ -26,6 +26,7 @@ Featured Projects 🌟
 Ticketing & Incident System: A robust project inspired by GLPI, integrated into the Duovix ecosystem to centralize support and manage IT/infrastructure demands.
 
 📚 Public Portfolio
+https://portifolio.duovix.com/
 Burguer App: Mobile app for managing orders in burger shops.
 
 JS Feed: An interactive social feed focused on JavaScript best practices.
