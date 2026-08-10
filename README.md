@@ -20,6 +20,7 @@ Projetos em Destaque 🌟 🛠️ Ecossistema Duovix (Principal) Duovix.com: Min
 Sistema de Chamados & Incidentes: Um projeto robusto inspirado no GLPI, integrado ao ecossistema Duovix para centralizar o suporte e a gestão de demandas de TI e infraestrutura.
 
 📚 Portfólio Público
+https://portifolio.duovix.com/
 
 App mobile para gestão de pedidos em hamburguerias.
 
